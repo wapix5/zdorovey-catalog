@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <title>Здоровей — каталог витаминов,БАДов и спортинвного питания</title>
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="splash">
+    <img src="./logo.jpg" class="splash-logo" alt="Здоровей">
+    <div class="splash-text">ЗДОРОВЕЙ</div>
+  </div>
+
+  <div class="app">
+    <header class="hero">
+      <div>
+        <p class="eyebrow"></p>
+        <h1>Здоровей</h1>
+        <p class="subtitle">Каталог товаров и остатки в наличии</p>
+      </div>
+      <div class="badge" id="totalBadge">0 товаров</div>
+    </header>
+
+    <section class="controls">
+      <div class="search">
+        <span>⌕</span>
+        <input id="searchInput" placeholder="Поиск товара..." />
+      </div>
+      <div class="chips" id="categoryChips"></div>
+    </section>
+
+    <main class="grid" id="productGrid"></main>
+  </div>
+
+  <div class="modalBackdrop" id="modalBackdrop">
+    <div class="modal">
+      <button class="close" id="closeModal">×</button>
+      <img id="modalImg" alt="">
+      <div class="modalBody">
+        <p class="modalCategory" id="modalCategory"></p>
+        <h2 id="modalTitle"></h2>
+        <p class="modalPrice" id="modalPrice"></p>
+        <p class="modalQty" id="modalQty"></p>
+      </div>
+    </div>
+  </div>
+<button class="contactFab" id="contactFab">Заказ / консультация</button>
+
+<div class="modalBackdrop" id="contactModal">
+  <div class="modal contactModalBox">
+    <button class="close" id="closeContact">×</button>
+    <div class="modalBody contactBody">
+      <h2>Заказ и консультация</h2>
+
+      <p class="contactIntro">
+        Чтобы оформить заказ или задать вопрос, напишите нам в Telegram.
+      </p>
+
+      <div class="contactCard">
+        <div class="contactLabel">Telegram</div>
+        <a class="contactLink" href="https://t.me/stop_hepatit" target="_blank">
+          @stop_hepatit
+        </a>
+      </div>
+
+      <div class="contactCard">
+        <div class="contactLabel">Телефон</div>
+        <a class="contactLink" href="tel:+79234885909">
+          +7 923 488-59-09
+        </a>
+      </div>
+
+      <div class="contactHint">
+        При заказе напишите название товара и количество.
+      </div>
+    </div>
+  </div>
+</div>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
