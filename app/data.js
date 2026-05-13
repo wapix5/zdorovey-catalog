@@ -585,7 +585,7 @@ window.PRODUCTS = [
     "name": "Зубная паста с серебром (Южная Корея)",
     "price": 350,
     "qty": 2,
-    "image": "assets/products/product_078.jpg"
+    "image": "assets/products/product_078JPG"
   },
   {
     "category": "Препарат из Индии 🆕",
