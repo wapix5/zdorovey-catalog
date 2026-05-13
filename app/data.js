@@ -417,7 +417,7 @@ window.PRODUCTS = [
     "name": "SoulWay Глюкозамин Хондроитин MSM + C3, 180 капсул",
     "price": 830,
     "qty": 7,
-    "image": "assets/products/product_054.jpg"
+    "image": "assets/products/product_054JPG"
   },
   {
     "category": "БАД",
