@@ -4,42 +4,42 @@ window.PRODUCTS = [
     "name": "Ежовик гребенчатый MANTRA 120 капсул",
     "price": 850,
     "qty": 5,
-    "image": "assets/products/product_001.JPG"
+    "image": "assets/products/product_001.jpg"
   },
   {
     "category": "БАД",
     "name": "5-HTP / 5-ХТП 60 капсул MANTRA",
     "price": 710,
     "qty": 5,
-    "image": "assets/products/product_002.JPG"
+    "image": "assets/products/product_002.jpg"
   },
   {
     "category": "БАД",
     "name": "B-комплекс MANTRA 60 капсул",
     "price": 540,
     "qty": 1,
-    "image": "assets/products/product_003.JPG"
+    "image": "assets/products/product_003.jpg"
   },
   {
     "category": "БАД",
     "name": "Ресвератрол MANTRA 60 капсул",
     "price": 1000,
     "qty": 2,
-    "image": "assets/products/product_004.JPG"
+    "image": "assets/products/product_004.jpg"
   },
   {
     "category": "БАД",
     "name": "Куркумин плюс MANTRA 60 капсул",
     "price": 640,
     "qty": 2,
-    "image": "assets/products/product_005.JPG"
+    "image": "assets/products/product_005.jpg"
   },
   {
     "category": "БАД",
     "name": "Рутин MANTRA 60 капсул",
     "price": 540,
     "qty": 2,
-    "image": "assets/products/product_006.JPG"
+    "image": "assets/products/product_006.jpg"
   },
   {
     "category": "БАД",
@@ -739,146 +739,146 @@ window.PRODUCTS = [
     "name": "Tenofovir Disoproxil Fumarate Tablets 300mg",
     "price": 3000,
     "qty": 5,
-    "image": "assets/products/tyfovac.JPG"
+    "image": "assets/products/tyfovac.jpg"
   },
   {
     "category": "Препарат из Индии 🆕",
     "name": "Entcavir Tablets IP 1 mg",
     "price": 3000,
     "qty": 1,
-    "image": "assets/products/entecor1.JPG"
+    "image": "assets/products/entecor1.jpg"
   },
   {
     "category": "Препарат из Индии 🆕",
     "name": "Hepasky",
     "price": 4000,
     "qty": 3,
-    "image": "assets/products/hepasky.JPG"
+    "image": "assets/products/hepasky.jpg"
   },
   {
     "category": "Препарат из Индии 🆕",
     "name": "Hepcmed",
     "price": 3000,
     "qty": 18,
-    "image": "assets/products/hepcmed.JPG"
+    "image": "assets/products/hepcmed.jpg"
   },
   {
     "category": "Препарат из Индии 🆕",
     "name": "Geptava",
     "price": 2500,
     "qty": 22,
-    "image": "assets/products/geptava.JPG"
+    "image": "assets/products/geptava.jpg"
   },
   {
     "category": "Препарат из Индии 🆕",
     "name": "Entcavir Tablets IP 0.5 mg",
     "price": 3000,
     "qty": 3,
-    "image": "assets/products/entecor05.JPG"
+    "image": "assets/products/entecor05.jpg"
   },
  {
     "category": "Препарат из Кореи 🆕",
     "name": "ZINC PLUS",
     "price": 1860,
     "qty": 2,
-    "image": "assets/products/zincplus.JPG"
+    "image": "assets/products/zincplus.jpg"
   },
  {
     "category": "Препарат из Кореи 🆕",
     "name": "Real rTg Omega-3",
     "price": 2000,
     "qty": 5,
-    "image": "assets/products/Realrtg.JPG"
+    "image": "assets/products/Realrtg.jpg"
   },
  {
     "category": "Препарат из Кореи 🆕",
     "name": "NutriD-Day Megalex Magnesium",
     "price": 1700,
     "qty": 5,
-    "image": "assets/products/megalex.JPG"
+    "image": "assets/products/megalex.jpg"
   },
  {
     "category": "Препарат из Кореи 🆕",
     "name": "NutriD-Day PREMIUM MILK THISTLE GOLD",
     "price": 1900,
     "qty": 4,
-    "image": "assets/products/milk.JPG"
+    "image": "assets/products/milk.jpg"
   },
  {
     "category": "Препарат из Кореи 🆕",
     "name": "NutriD-Day Premium vittamin B complex gold",
     "price": 1700,
     "qty": 3,
-    "image": "assets/products/vitaminb.JPG"
+    "image": "assets/products/vitaminb.jpg"
   },
  {
     "category": "Препарат из Кореи 🆕",
     "name": "NutriD-Day Megalex Magnesium",
     "price": 1700,
     "qty": 5,
-    "image": "assets/products/megalex.JPG"
+    "image": "assets/products/megalex.jpg"
   },
  {
     "category": "Препарат из Кореи 🆕",
     "name": "NutriD-Day Megalex joint MSM 2000",
     "price": 1700,
     "qty": 3,
-    "image": "assets/products/msm.JPG"
+    "image": "assets/products/msm.jpg"
   },
  {
     "category": "Препарат из Кореи 🆕",
     "name": "NutriD-Day Multi-Vitamin Gold",
     "price": 1700,
     "qty": 4,
-    "image": "assets/products/multivit.JPG"
+    "image": "assets/products/multivit.jpg"
   },
  {
     "category": "Препарат из Кореи 🆕",
     "name": "Im Vita мультивитамин ежедневный",
     "price": 1500,
     "qty": 6,
-    "image": "assets/products/imv.JPG"
+    "image": "assets/products/imv.jpg"
   },
  {
     "category": "Препарат из Кореи 🆕",
     "name": "Naturalize MultiVitamin Gummi детский",
     "price": 1700,
     "qty": 2,
-    "image": "assets/products/gummi.JPG"
+    "image": "assets/products/gummi.jpg"
   },
  {
     "category": "Препарат из Кореи 🆕",
     "name": "Naturalize Omega 3 Gummi детский",
     "price": 1750,
     "qty": 2,
-    "image": "assets/products/omega.JPG"
+    "image": "assets/products/omega.jpg"
   },
  {
     "category": "Препарат из Кореи 🆕",
     "name": "Real VitaminD 5000IU",
     "price": 1550,
     "qty": 5,
-    "image": "assets/products/real.JPG"
+    "image": "assets/products/real.jpg"
   },
  {
     "category": "Препарат из Кореи 🆕",
     "name": "AOJIRU напиток растворимый 100 стиков",
     "price": 1900,
     "qty": 1,
-    "image": "assets/products/aojiru.JPG"
+    "image": "assets/products/aojiru.jpg"
   },
  {
     "category": "Препарат из Кореи 🆕",
     "name": "Kombucha daily растворимый со вкусом ананаса + бутылка",
     "price": 1300,
     "qty": 2,
-    "image": "assets/products/kom.JPG"
+    "image": "assets/products/kom.jpg"
   },
  {
     "category": "Препарат из Кореи 🆕",
     "name": "VITAHALO Ferrum",
     "price": 1900,
     "qty": 3,
-    "image": "assets/products/fer.JPG"
+    "image": "assets/products/fer.jpg"
   },
 ];
